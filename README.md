@@ -35,7 +35,7 @@ Aplikasi web perpustakaan mini yang dibangun dengan **Laravel 12** untuk mengelo
 - **User Dashboard**: Lihat buku, riwayat peminjaman, status limit
 - **Admin Dashboard**: Monitor semua transaksi dengan filter
 - **Guest Dashboard**: Browse buku tanpa akses pinjam
-- **CSV Export**: User & Admin bisa export transactions
+- **CSV Export**: Admin bisa export transactions
 
 
 ## 🚀 Prerequisites
@@ -224,7 +224,6 @@ php artisan test
 - Alert denda keterlambatan
 
 ### 2. CSV Export
-- User export riwayat peminjaman
 - Admin export all transactions dengan filter yang sama
 
 ### 3. Guest Mode
