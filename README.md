@@ -219,9 +219,7 @@ php artisan test
 ## ✨ Bonus Features (+10 poin)
 
 ### 1. Email Notifications
-- Notifikasi pinjam berhasil
-- Reminder deadline 3 hari
-- Alert denda keterlambatan
+- Notifikasi pesan ketika berhasil mengirim ke admin
 
 ### 2. CSV Export
 - Admin export all transactions dengan filter yang sama
