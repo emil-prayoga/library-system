@@ -2,6 +2,11 @@
 
 Aplikasi web perpustakaan mini yang dibangun dengan **Laravel 12** untuk mengelola peminjaman dan pengembalian buku dengan fitur lengkap.
 
+## 📋 Anggota Kelompok
+1. Emil Prayoga Albani (ISB 24/2402510031)
+2. Wardatul Hasanah (ISB 24/2402510035)
+3. Dela Ayu Wulandari (ISB 24/2402510037)
+
 ## 🎯 Fitur Utama
 
 ### ✅ Authentication & Authorization
@@ -32,7 +37,8 @@ Aplikasi web perpustakaan mini yang dibangun dengan **Laravel 12** untuk mengelo
 - **Guest Dashboard**: Browse buku tanpa akses pinjam
 - **CSV Export**: User & Admin bisa export transactions
 
-## 📋 Prerequisites
+
+## 🚀 Prerequisites
 
 - PHP 8.4+
 - MySQL 8.0+
@@ -117,7 +123,7 @@ php artisan serve
 
 ---
 
-## 👥 Demo Accounts (4 Akun)
+## 👥 Demo Accounts
 
 ### 1️⃣ Regular User - Aktif
 ```
@@ -276,11 +282,6 @@ php artisan test
 - `GET /guest/logout` - Exit guest mode
 
 
-
-## Anggota Kelompok
-1. Emil Prayoga Albani (ISB 24/2402510031)
-2. Wardatul Hasanah (ISB 24/2402510035)
-3. Dela Ayu Wulandari (ISB 24/2402510037)
 
 **Built with ❤️ using Laravel 12 • PHP 8.4 • MySQL 8.0**
 
