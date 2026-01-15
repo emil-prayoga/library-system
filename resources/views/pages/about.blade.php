@@ -297,14 +297,14 @@
             </div>
 
             <div class="team-member">
-                <div class="team-avatar"><i class="fas fa-user-cog" style="color: #667eea"></i></div>
+                <div class="team-avatar"><i class="fas fa-user-pen" style="color: #667eea"></i></div>
                 <h4>Wardatul Hasanah</h4>
                 <p>2402510035</p>
                 <span>Bertanggung jawab atas desain</span>
             </div>
 
             <div class="team-member">
-                <div class="team-avatar"><i class="fas fa-paint-brush" style="color: #667eea"></i></div>
+                <div class="team-avatar"><i class="fas fa-user-cog" style="color: #667eea"></i></div>
                 <h4>Dela Ayu Wulandari</h4>
                 <p>2402510037</p>
                 <span>Dokumentasi dan pengelolaan sistem</span>
