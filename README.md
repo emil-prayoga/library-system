@@ -122,7 +122,7 @@ php artisan serve
 ### 1️⃣ Regular User - Aktif
 ```
 Email:    you@example.com
-Password: your1234
+Password: password
 Role:     User
 Status:   Aktif (bisa pinjam buku)
 ```
@@ -130,7 +130,7 @@ Status:   Aktif (bisa pinjam buku)
 ### 2️⃣ Administrator
 ```
 Email:    admin@example.com
-Password: Admin1234
+Password: password
 Role:     Admin
 Status:   Bisa kelola semua (books, borrowings, users, messages, categories)
 ```
