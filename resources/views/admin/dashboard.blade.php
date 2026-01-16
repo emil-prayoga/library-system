@@ -98,7 +98,7 @@
         @endif
 
         <a href="{{ route('admin.borrowings.show', $borrowing->id) }}"
-           class="detail" style="background: #667eea; color: white;">
+           class="detail" style="background: #667eea; color: white; text-decoration: none; padding: 0.6rem 1rem; border: none; cursor: pointer;">
             <i class="fas fa-file-alt"></i>
             <span>Detail</span>
         </a>
